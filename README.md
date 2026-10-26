@@ -22,5 +22,3 @@ inventory and sell them for cash, with a hand-to-hand trade animation.
 3. Add `ensure phx-buyerped` to `server.cfg` after the dependencies.
 4. Edit `config.lua` (ped model, coordinates, item prices).
 
-## License
-MIT
